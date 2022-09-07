@@ -1,5 +1,7 @@
 public class Ejercicio1 {
+    //agregando comentario
     public static void main(String[] args) {
+        var a =4;
         var x = 5;
         boolean y;
 
