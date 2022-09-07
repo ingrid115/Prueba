@@ -4,6 +4,7 @@ public class Ejercicio1 {
         var a =4;
         var x = 5;
         boolean y;
+        var b =6;
 
         System.out.println("¿El número es par?");
 

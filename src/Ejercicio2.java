@@ -7,6 +7,9 @@ public class Ejercicio2 {
         System.out.print("Ingrese el 1er número : ");
         var num1 = scanner.nextInt();
 
+        System.out.print("Ingrese el 1er número : ");
+        var num8 = scanner.nextInt();
+
         System.out.print("Ingrese el 2do número : ");
         var num2 = scanner.nextInt();
 
